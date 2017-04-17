@@ -1,0 +1,11 @@
+.yellow{
+  background-color: #ECF50A;
+  height: 80px;
+  padding: 5px;
+}
+.pink{
+  background-color: #EA23F2;
+  border: 1px solid black;
+  height: 80px;
+  padding: 5px;
+}
